@@ -9,8 +9,18 @@ a:active, a:hover {
   color: #666;
   text-decoration: underline;
 }
+/* Site Header */
 header.main {
   color: #999;
   background: #333;
   border-bottom: 5px #08c solid !important;
+}
+header.main h1, nav ul, nav li {
+  display: inline;
+}
+header.main h1 {
+  margin:0;
+}
+nav ul {
+  padding: 0;
 }
