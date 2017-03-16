@@ -1,0 +1,16 @@
+body {
+  font-family: "Open Sans", "Fira Sans", "Verdana", "Source Sans Pro", "Dejavu Sans", "Droid Sans", "Helvetica", "Arial", sans-serif;
+}
+a:link, a:visted {
+  color: #08c;
+  text-decoration: none;
+}
+a:active, a:hover {
+  color: #666;
+  text-decoration: underline;
+}
+header.main {
+  color: #999;
+  background: #333;
+  border-bottom: 5px #08c solid !important;
+}
