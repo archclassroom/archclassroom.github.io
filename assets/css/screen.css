@@ -1,7 +1,8 @@
 body {
+  color: #222;
   font-family: "Open Sans", "Fira Sans", "Verdana", "Source Sans Pro", "Dejavu Sans", "Droid Sans", "Helvetica", "Arial", sans-serif;
 }
-a:link, a:visted {
+a:link, a:visited {
   color: #08c;
   text-decoration: none;
 }
@@ -15,11 +16,14 @@ header.main {
   background: #333;
   border-bottom: 5px #08c solid !important;
 }
-header.main h1, nav ul, nav li {
+header.main h1, nav, nav ul, nav li {
   display: inline;
 }
 header.main h1 {
   margin:0;
+}
+nav {
+  float: right;
 }
 nav ul {
   padding: 0;
