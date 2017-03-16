@@ -19,7 +19,7 @@ a:active, a:hover {
 header.main {
   color: #999;
   background: #333;
-  border-bottom: 5px #08c solid !important;
+  border-bottom: 5px #08c solid;
 }
 header.main h1, nav, nav ul, nav li {
   display: inline;
@@ -35,11 +35,13 @@ nav ul {
 }
 /* Main Content */
 #content {
-  width: 70%;
+}
+article, #sidebar {
+  float: left;
   margin: 1em;
 }
 article {
-  float: left;
+  width: 80%;
 }
 /* Sidebar */
 #sidebar {
@@ -52,4 +54,6 @@ article {
 /* Footer */
 footer.main {
   text-align: center;
+  display: block;
+  clear: both;
 }
