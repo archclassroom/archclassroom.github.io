@@ -3,6 +3,13 @@ body {
   color: #222;
   font-family: "Open Sans", "Fira Sans", "Verdana", "Source Sans Pro", "Dejavu Sans", "Droid Sans", "Helvetica", "Arial", sans-serif;
 }
+h2 {
+  margin: 0 0 .5em;
+  border-bottom: 1px solid #888;
+}
+h3 {
+  margin: 0 0 .3em;
+}
 a:link, a:visited {
   color: #08c;
   text-decoration: none;
