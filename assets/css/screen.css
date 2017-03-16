@@ -34,7 +34,17 @@ nav ul {
   padding: 0;
 }
 /* Main Content */
+#content {
+  width: 70%;
+  margin: 1em;
+}
+article {
+  float: left;
+}
 /* Sidebar */
+#sidebar {
+  float: left;
+}
 #sidebar section {
   padding: .5em;
   margin-bottom: 1em;
