@@ -1,3 +1,4 @@
+/* Global Settings */
 body {
   color: #222;
   font-family: "Open Sans", "Fira Sans", "Verdana", "Source Sans Pro", "Dejavu Sans", "Droid Sans", "Helvetica", "Arial", sans-serif;
@@ -9,6 +10,10 @@ a:link, a:visited {
 a:active, a:hover {
   color: #666;
   text-decoration: underline;
+}
+.infobox {
+  background: #ecf2f5;
+  border: 1px solid #bcd;
 }
 /* Site Header */
 header.main {
@@ -27,4 +32,14 @@ nav {
 }
 nav ul {
   padding: 0;
+}
+/* Main Content */
+/* Sidebar */
+#sidebar section {
+  padding: .5em;
+  margin-bottom: 1em;
+}
+/* Footer */
+footer.main {
+  text-align: center;
 }
