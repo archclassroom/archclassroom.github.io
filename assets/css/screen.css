@@ -68,7 +68,6 @@ footer.main {
 .ribbon {
   position: fixed;
   padding: 5px 45px;
-  width: 128px;
   bottom: 50px;
   right: -50px;
   -webkit-transform: rotate(315deg);
