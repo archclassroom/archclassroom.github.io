@@ -19,4 +19,4 @@ Right after the class is over:
 * Change topic in #archlinux-classroom.
 * Thank the teacher and attendees.
 
-Then follow the [after class checklist](after-class.html).
+Then follow the [after class checklist](after-class.md).
