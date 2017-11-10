@@ -11,4 +11,4 @@ For teachers and classroom volunteers. Mostly the latter.
 * [Announcing a class](announcing.md) — directions for announcing a class
 * [Day of the class](day-of-class.md) — checklists on what to do the day of the class
 * [After the class](after-class.md) — checklist for things to do once the class is over (not necessarily on the same day as the class)
-* Canceling a class — what to do when a teacher cancels a class (hint: still do not sacrifice them)
+* [Reschedule or cancel a class](reschedule-or-cancel.md) — what to do when a teacher reschedules or cancels a class (hint: still do not sacrifice them)
