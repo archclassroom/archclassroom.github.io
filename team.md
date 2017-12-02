@@ -15,7 +15,7 @@ Those marked "github" help manage git repositories. Those marked "chanop" keep t
 * yar (chanop)
 * HalosGhost (github)
 * Eschwartz (github, chanop)
-* polyzen (github)
+* polyzen (github, chanop)
 
 Fellows — Former members of the team, now retired from the project.
 
