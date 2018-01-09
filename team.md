@@ -23,3 +23,8 @@ Fellows — Former members of the team, now retired from the project.
 * carharttjimmy
 * kaictl
 * escondida
+
+Honorary — These people had a profound influence on the project despite not being formally part of the team. Classroom would not be what it is without them.
+
+* CalimeroTeknik
+* jy2wong
