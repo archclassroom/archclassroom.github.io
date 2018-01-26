@@ -10,7 +10,6 @@ Those marked "github" help manage git repositories. Those marked "chanop" keep t
 
 * meskarune (project lead, github, chanop)
 * tigrmesh (chanop)
-* fsckd (project lead, github, chanop)
 * demize (chanop)
 * yar (chanop)
 * HalosGhost (github)
@@ -23,6 +22,7 @@ Fellows — Former members of the team, now retired from the project.
 * carharttjimmy
 * kaictl
 * escondida
+* fsckd
 
 Honorary — These people had a profound influence on the project despite not being formally part of the team. Classroom would not be what it is without them.
 
